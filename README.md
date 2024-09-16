@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julian @jfrvs
-- 👀 I’m interested in Java and Julia Lang
-- 🌱 I’m currently learning Java and Julia Lang
+- 👀 I’m interested in Python and Java
+- 🌱 These are some of my projects envolving data analysis, software development and more
 - 📫 How to reach me: julian.vieirasilveira at gmail dot com
 
 <!---
