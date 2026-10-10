@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Julian @jfrvs
-- 👀 I’m interested in Python and Java
-- 🌱 These are some of my projects envolving data analysis, software development and more
-- 📫 How to reach me: julian.vieirasilveira at gmail dot com
+# Julian F. R. V. Silveira
 
-<!---
-jfrvs/jfrvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build software, work with data, and enjoy exploring how technology can make complex things simpler.
+
+My projects mostly involve **Python, SQL, automation, and data visualization**, with a growing interest in web development, software architecture, and interface design.
+
+I like building practical tools, experimenting with new technologies, and understanding the systems behind the things we use.
+
+Beyond programming, I'm interested in design, typography, and the internet as a space for independent creation.
+
+**Contact:** julian.vieirasilveira@gmail.com
